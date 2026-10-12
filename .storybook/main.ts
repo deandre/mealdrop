@@ -10,6 +10,7 @@ const config: StorybookConfig = {
   addons: [
     '@storybook/addon-vitest',
     '@storybook/addon-a11y',
+    'storybook-addon-externalsss',
     // TODO: this addon has a bad instrumentation of getConfig.asyncWrapper that should be fixed
     'storybook-addon-test-codegen',
     '@storybook/addon-designs',
