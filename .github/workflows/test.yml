@@ -13,8 +13,11 @@ jobs:
         with:
           node-version-file: .nvmrc
 
+      - name: Enable Corepack
+        run: corepack enable
+
       - name: Install dependencies
-        run: yarn install
+        run: yarn install --immutable
 
       - name: Install playwright dependencies
         run: yarn exec playwright install chromium --with-deps
