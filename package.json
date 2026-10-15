@@ -83,7 +83,7 @@
     "@vitejs/plugin-react": "^6.1.1",
     "@vitest/browser-playwright": "^4.1.11",
     "@vitest/coverage-v8": "^4.1.11",
-    "chromatic": "^18.1.0",
+    "chromatic": "^18.12.2",
     "eslint-plugin-storybook": "^10.6.2",
     "happy-dom": "^20.11.1",
     "husky": "^9.1.7",
