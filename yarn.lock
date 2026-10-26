@@ -3108,7 +3108,7 @@ __metadata:
     react-redux: "npm:^9.3.0"
     react-router-dom: "npm:^7.18.2"
     storybook: "npm:^10.6.2"
-    storybook-addon-externalsss: "npm:^0.2.0"
+    storybook-addon-externalsss: "npm:^0.3.0"
     storybook-addon-test-codegen: "npm:^3.0.4"
     styled-components: "npm:^6.4.4"
     stylis: "npm:^4.4.0"
@@ -5458,12 +5458,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"storybook-addon-externalsss@npm:^0.2.0":
-  version: 0.2.0
-  resolution: "storybook-addon-externalsss@npm:0.2.0"
+"storybook-addon-externalsss@npm:^0.3.0":
+  version: 0.3.0
+  resolution: "storybook-addon-externalsss@npm:0.3.0"
   peerDependencies:
     storybook: ^9.0.0 || ^10.0.0
-  checksum: 10c0/28b3f69f87d060826556fdcc086048056097840cc35df3ef4db1094c0bef9dd2f912702c265d94d3d78615c365e330dbd695c9aefd92dee4d6ebb0aecad6d50d
+  checksum: 10c0/838fa9d4b71a0aaafac5b68652daa07b6bcd744426f048ee1812c85b3ecafe40d9ca2ebc58deb5df724a46f821493038478222c6d31d59920c4560a52fe2905d
   languageName: node
   linkType: hard
 
